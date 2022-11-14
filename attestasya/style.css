@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+body{
+    background: url(https://media.istockphoto.com/id/536507269/photo/night-sky-with-bright-stars-and-blue-nebula.jpg?b=1&s=170667a&w=0&k=20&c=Ds4PS_QR1EnY3siXlny-mfRXDUBDKTo049g2QB3zy1I=);
+}
+.umumi{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: larger;
+    color: white;
+    font-weight:bolder ; 
+    font-family: 'Roboto Slab', serif;
+}
+.galaxy{
+    font-size: 25px
+}
+.sag{
+  display: flex;  
+  flex-direction: row;
+  width: 200px;
+  justify-content: space-between;
+}
+.wel{
+color: white;
+font-family: 'Roboto Slab', serif;
+font-size: 50px;
+height: 64vh;
+display: flex;
+align-items: center;
+justify-content: center;
+}
